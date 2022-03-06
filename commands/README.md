@@ -151,7 +151,7 @@ Remove timeout
 
 </details>
 
-### configuration commands&#x20;
+### Configuration commands&#x20;
 
 <details>
 
@@ -179,3 +179,8 @@ Remove moderator log
 [thread-channel-commands.md](thread-channel-commands.md)
 {% endcontent-ref %}
 
+### Configuration Self Assignable Roles
+
+{% content-ref url="self-assignable-roles.md" %}
+[self-assignable-roles.md](self-assignable-roles.md)
+{% endcontent-ref %}
