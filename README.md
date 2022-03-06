@@ -16,6 +16,6 @@ BOXy is a special bot in Discord We have tried to design features for this bot t
 
 To get more information and learn how to use the features of this bot, start here
 
-{% content-ref url="commands.md" %}
-[commands.md](commands.md)
+{% content-ref url="commands/" %}
+[commands](commands/)
 {% endcontent-ref %}
