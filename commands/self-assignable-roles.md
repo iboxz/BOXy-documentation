@@ -40,7 +40,7 @@ After configuring all the roles, you can send the message in the channel you wan
 
 </details>
 
-![Embed design](<../.gitbook/assets/image (1).png>) ![Existing Color Roles](../.gitbook/assets/Untitled.png)
+![Embed design](<../.gitbook/assets/image (1).png>) ![Existing Color Roles](broken-reference)
 
 <details>
 

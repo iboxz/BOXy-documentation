@@ -7,7 +7,7 @@
 ### Prefix
 
 BOXy default prefix: `b.`,\
-and also you can find all bot commands in `/` Slash Commands list&#x20;
+and also you can find all bot commands in `/` Slash Commands list
 
 ![](../.gitbook/assets/image.png)
 
@@ -123,6 +123,24 @@ Unban a member
 
 <details>
 
+<summary>Kick</summary>
+
+**You can kick a member from your server. They will be able to rejoin the server with an invite link. This will log a moderation action. You can also add an optional reason.**
+
+Ban a member
+
+```
+/kick target:<mention user>
+```
+
+```
+/kick target:<mention user> reason:<reason>
+```
+
+</details>
+
+<details>
+
 <summary>Timeout (add / remove)</summary>
 
 **you can timeout a member so they cannot type in your channels. This will log a moderation action. You can also add an optional reason and time limit.**
@@ -137,7 +155,7 @@ Timeout a member
 /timeout option:Add target:<mention user> duration:<custom time> reason:<reason>
 ```
 
-_❕If you don't enter a specific_ duration_, it will be set on two hours automatically._
+_❕If you don't enter a specific_ duration\_, it will be set on two hours automatically.\_
 
 Remove timeout
 
@@ -151,7 +169,7 @@ Remove timeout
 
 </details>
 
-### Configuration commands&#x20;
+### Configuration commands
 
 <details>
 
