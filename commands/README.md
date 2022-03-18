@@ -9,7 +9,9 @@
 BOXy default prefix: `b.`,\
 and also you can find all bot commands in `/` Slash Commands list
 
-![](../.gitbook/assets/image.png)
+{% embed url="https://www.youtube.com/watch?v=wfXaCVVdkyY" %}
+BOXy features preview
+{% endembed %}
 
 ### **Information commands:**
 
