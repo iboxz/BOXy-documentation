@@ -4,7 +4,8 @@ Terms of Use
 
 Effective date: June 19, 2020
 
-Welcome to BOXy, a service provided by Bot Labs. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services, proprietary bots, and other applications (the “Services”). If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at Email: TOU@botlabs.gg
+Welcome to BOXy, Please read on to learn the rules and restrictions that govern your use of our website(s), products, services, proprietary bots, and other applications (the “Services”). If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at \
+support server: [https://discord.gg/3RyERUDUGt](https://discord.gg/3RyERUDUGt)
 
 These Terms of Use (the “Terms”) are a binding contract between you and BOTLABS.GG, LLC. (“Bot Labs,” “we” and “us”). Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. These Terms include the provisions in this document as well as those in the Privacy Policy and Copyright Dispute Policy. Your use of or participation in certain Services may also be subject to additional policies, rules and/or conditions (“Additional Terms”), which are incorporated herein by reference, and you understand and agree that by using or participating in any such Services, you agree to also comply with these Additional Terms.
 
