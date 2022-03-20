@@ -7,7 +7,7 @@ If you do not agree with any of these terms, you are prohibited from using or ad
 
 ## Disclaimer <a href="#disclaimer" id="disclaimer"></a>
 
-​[https://discord.gg/3RyERUDUGt](https://discord.gg/3RyERUDUGt) .
+​You are strictly prohibited to use BOXy against the ToS of discord or for illegal purposes. We are doing our best to prevent these activities, while trying to provide the best user experience as possible. If you find people or communities using BOXy against the ToS of discord or even for illegal activities, please contact us [https://discord.gg/3RyERUDUGt](https://discord.gg/3RyERUDUGt) .
 
 ## Proprietary Rights <a href="#proprietary-rights" id="proprietary-rights"></a>
 
