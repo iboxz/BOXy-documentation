@@ -14,16 +14,16 @@ The bot has a 30-second slowmode to create each thread channel
 
 ![config thread system](../.gitbook/assets/2022-03-06-18-13-27.gif)
 
-### Commands setup&#x20;
+### Commands setup
 
 Add thread channel
 
 ```
-/config bot option:Set Thread System channel channel:<mention channel>
+/config server option:Set Thread System channel channel:<mention channel>
 ```
 
 Remove thread channel
 
 ```
-/config bot option:Remove Thread System channel channel:<mention channel>
+/config server option:Remove Thread System channel channel:<mention channel>
 ```

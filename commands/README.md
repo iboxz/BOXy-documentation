@@ -109,6 +109,10 @@ Ban a member
 /ban option:Ban target:<mention user> reason:<reason>
 ```
 
+```
+b.ban <userID, userMention> <reason>
+```
+
 **You can unban a member. This will log a moderation action. You can also add an optional reason.**
 
 Unban a member
@@ -119,6 +123,10 @@ Unban a member
 
 ```
 /ban option:Unban target:<userID> reason:<reason>
+```
+
+```
+b.unban <userID> <reason>
 ```
 
 </details>
@@ -139,6 +147,10 @@ Ban a member
 /kick target:<mention user> reason:<reason>
 ```
 
+```
+b.kick <userID, userMention> <reason>
+```
+
 </details>
 
 <details>
@@ -157,6 +169,10 @@ Timeout a member
 /timeout option:Add target:<mention user> duration:<custom time> reason:<reason>
 ```
 
+```
+b.timeout <userID, userMention> <time>
+```
+
 _❕If you don't enter a specific_ duration\_, it will be set on two hours automatically.\_
 
 Remove timeout
@@ -167,6 +183,10 @@ Remove timeout
 
 ```
 /timeout option:Add target:<mention user> reason:<reason>
+```
+
+```
+b.rtimeout <userID, userMention>
 ```
 
 </details>
@@ -182,13 +202,23 @@ Remove timeout
 Add moderator log
 
 ```
-/config bot option:Set Moderator log channel channel:<mention channel>
+/config server option:Set Moderator log channel channel:<mention channel>
 ```
 
 Remove moderator log
 
 ```
-/config bot option:Remove Moderator log channel channel:<mention channel>
+/config server option:Remove Moderator log channel channel:<mention channel>
+```
+
+#### change bot prefix:
+
+```
+/config bot prefix:<What do you want to change the prefix to?>
+```
+
+```
+b.prefix <What do you want to change the prefix to?>
 ```
 
 </details>
