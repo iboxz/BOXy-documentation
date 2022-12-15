@@ -6,12 +6,14 @@
 
 ### Prefix
 
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
 BOXy default prefix: `b.`,\
 and also you can find all bot commands in `/` Slash Commands list
 
 {% embed url="https://www.youtube.com/watch?v=wfXaCVVdkyY" %}
-BOXy features preview
-{% endembed %}
 
 ### **Information commands:**
 
