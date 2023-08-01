@@ -12,7 +12,9 @@ coverY: 0
 
 This documentation provides information on each module/command, including the description, usage, and examples.
 
-BOXy is a special bot in Discord We have tried to design features for this bot that other bots around the world don have&#x20;
+## What is BOXy?
+
+Our main goal in designing this bot is to provide features that other bots do not have in Discord. This bot is in the stages of development and updating, and new ideas are implemented on it every day. Use this robot and help us in this way.
 
 To get more information and learn how to use the features of this bot, start here
 

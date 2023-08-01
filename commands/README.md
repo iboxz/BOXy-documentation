@@ -1,19 +1,22 @@
 # ❕ Commands
 
 {% hint style="info" %}
-**Good to know:** BOXy commands are all in slash command format, except for some moderation commands due to server security issues.
+**Good to know:** BOXy commands are all in slash command format.
 {% endhint %}
 
-### Prefix
+### Utility**:**
 
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
+<details>
 
-BOXy default prefix: `b.`,\
-and also you can find all bot commands in `/` Slash Commands list
+<summary>Instagram downloader</summary>
 
-{% embed url="https://www.youtube.com/watch?v=wfXaCVVdkyY" %}
+**Download the post or story from Instagram by sending a link**
+
+`/instagram downloader link:<copy link from instagram>`
+
+* If the file is larger than the 25MB(limit of Discord), it will send a download link
+
+</details>
 
 ### **Information commands:**
 
@@ -111,10 +114,6 @@ Ban a member
 /ban option:Ban target:<mention user> reason:<reason>
 ```
 
-```
-b.ban <userID, userMention> <reason>
-```
-
 **You can unban a member. This will log a moderation action. You can also add an optional reason.**
 
 Unban a member
@@ -125,10 +124,6 @@ Unban a member
 
 ```
 /ban option:Unban target:<userID> reason:<reason>
-```
-
-```
-b.unban <userID> <reason>
 ```
 
 </details>
@@ -149,9 +144,7 @@ Ban a member
 /kick target:<mention user> reason:<reason>
 ```
 
-```
-b.kick <userID, userMention> <reason>
-```
+
 
 </details>
 
@@ -171,10 +164,6 @@ Timeout a member
 /timeout option:Add target:<mention user> duration:<custom time> reason:<reason>
 ```
 
-```
-b.timeout <userID, userMention> <time>
-```
-
 _❕If you don't enter a specific_ duration\_, it will be set on two hours automatically.\_
 
 Remove timeout
@@ -185,10 +174,6 @@ Remove timeout
 
 ```
 /timeout option:Add target:<mention user> reason:<reason>
-```
-
-```
-b.rtimeout <userID, userMention>
 ```
 
 </details>
@@ -217,10 +202,6 @@ Remove moderator log
 
 ```
 /config bot prefix:<What do you want to change the prefix to?>
-```
-
-```
-b.prefix <What do you want to change the prefix to?>
 ```
 
 </details>
