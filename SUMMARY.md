@@ -10,7 +10,7 @@
 
 ## v2ray collector
 
-* [Language](v2ray-collector/language.md)
+* [Language](v2ray-collector/v2ray-collector-document-language.md)
 * [v2ray Document (en)](v2ray-collector/v2ray-document-en/README.md)
   * [What is v2ray?](v2ray-collector/v2ray-document-en/what-is-v2ray.md)
   * [How can I use it?](v2ray-collector/v2ray-document-en/how-can-i-use-it.md)
