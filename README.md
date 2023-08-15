@@ -18,6 +18,6 @@ Our main goal in designing this bot is to provide features that other bots do no
 
 To get more information and learn how to use the features of this bot, start here
 
-{% content-ref url="commands/" %}
-[commands](commands/)
+{% content-ref url="commands/commands.md" %}
+[commands.md](commands/commands.md)
 {% endcontent-ref %}

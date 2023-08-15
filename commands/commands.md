@@ -1,4 +1,4 @@
-# ❕ Commands
+# Commands
 
 {% hint style="info" %}
 **Good to know:** BOXy commands are all in slash command format.
